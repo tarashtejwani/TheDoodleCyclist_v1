@@ -213,7 +213,7 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #232d39!important;
+  color: #232D39!important;
 }
 
 .background-header .main-nav .nav li:last-child a {
@@ -266,7 +266,7 @@ header
 
 .header-area .main-nav .logo em {
   font-style: normal;
-  color: red;
+  color: #ed563b;
   font-weight: 900;
 }
 
@@ -623,6 +623,7 @@ banner
     bottom: 7px;
     width: 100%;
 }
+
 
 .main-banner .caption {
   text-align: center;
